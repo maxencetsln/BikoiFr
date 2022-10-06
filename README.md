@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BikoiFr
-- 👀 I’m interested in Webdesign
+- 👀 I’m interested in Webdesign / UI & UX
 - 🌱 I’m currently learning HTML/CSS/JS
 
 <!---
