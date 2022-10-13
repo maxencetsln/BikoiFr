@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BikoiFr
+- 👋 Hi, I’m @maxencetsln
 - 👀 I’m interested in Webdesign / UI & UX
 - 🌱 I’m currently learning HTML/CSS/JS
 
